@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anthony Canipel !</h1>
-<h3 align="center">A passionate frontend and backend developer ! I come from the northern part of France, more precisely from Lille.</h3>
+<h3 align="center">A passionate frontend and backend developer !</h3>
 
 - 🔭 I’m currently working on [On-zen](https://github.com/KratenDodgeball/onzen)
 
